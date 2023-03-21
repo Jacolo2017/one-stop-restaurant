@@ -36,8 +36,14 @@ Main Idea Focuses on the Stages of the Restaurant Experince.
    * Order Editing
    * Ingredient Database
    * Menu 86 Capabilities
-  
-* Creating Users
+
+# Next.js TailWind Front-End
+ * Needs to have consistency in location of editing flags etc for efficiency in Server User expereince.
+ * Choice of Light and Dark modes for server preference.
+ * Previous screen/selection button (BACK BUTTON)
+ * UNDO BUTTON 
+
+# Creating Users
  * Manager Users
   * Ability to Edit Ingredient & Menu Databases
   * Will be able to influence Values/Payment amounts
@@ -53,9 +59,3 @@ Main Idea Focuses on the Stages of the Restaurant Experince.
    * Past Orders
    * Past Allergens
    * Disabilities (if applicable)
-
-* Next.js TailWind Front-End
- * Needs to have consistency in location of editing flags etc for efficiency in Server User expereince.
- * Choice of Light and Dark modes for server preference.
- * Previous screen/selection button (BACK BUTTON)
- * UNDO BUTTON             
