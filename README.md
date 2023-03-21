@@ -2,7 +2,7 @@
 A web app that will be a full service, kitchen, and product management experience for restaurants.
 
 # Concept:
-  # Main Idea Focuses on the Stages of the Restaurant Experince. 
+   Main Idea Focuses on the Stages of the Restaurant Experince. 
     # Entry and Seating
     # Menu and Ordering
       # Menu and Order Editing
