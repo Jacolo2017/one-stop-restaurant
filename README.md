@@ -44,18 +44,18 @@ Main Idea Focuses on the Stages of the Restaurant Experince.
  * UNDO BUTTON 
 
 # Creating Users
- * Manager Users
-  * Ability to Edit Ingredient & Menu Databases
-  * Will be able to influence Values/Payment amounts
- * Server Users
-  * Able to Place Orders at Tables
-  * Edit Orders using Flags
-  * Order Drinks
- * Bartender Users
-  * Edit Ingredient and Menu Database with Bar Flag
-  * Edit Drink Orders
- * Customer User
-  * Holds:
-   * Past Orders
-   * Past Allergens
-   * Disabilities (if applicable)
+* Manager Users:
+ * Ability to Edit Ingredient & Menu Databases
+ * Will be able to influence Values/Payment amounts
+ * Server Users:
+ * Able to Place Orders at Tables
+ * Edit Orders using Flags
+ * Order Drinks
+* Bartender Users:
+ * Edit Ingredient and Menu Database with Bar Flag
+ * Edit Drink Orders
+* Customer User:
+ * Holds:
+  * Past Orders
+  * Past Allergens
+  * Disabilities (if applicable)
