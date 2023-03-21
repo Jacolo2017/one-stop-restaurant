@@ -59,3 +59,6 @@ Main Idea Focuses on the Stages of the Restaurant Experince.
     * Past Orders
     * Past Allergens
     * Disabilities (if applicable)
+
+Figma Board Link:
+https://www.figma.com/file/6on6EPwfeZi1uRi1a3dQKk/Restaurant-Food-Services-and-Seating?node-id=0-1&t=juWYnoXuq14dKcKF-0
